@@ -1,18 +1,19 @@
-# สร้าง Machine Learning ด้วย Python by Steve Tobs
+# สร้าง Machine Learning ด้วย Python 
+-- by Steve Tobs
 
-CLASS 1 -** PYTHON FOR MACHINE LEARNING -- **29 (SAT) FEB 2020 -- 13.00 - 16.00 ++
-  Part 1 - Core Programing Principles
-  Part 2 - Fundamentals of Python
-CLASS 2 -** สร้าง MACHINE LEARNING ด้วย PYTHON: DECISION TREES AND RANDOM FORESTS ***-- 21 (SAT) MAR 2020 -- 13.00 ++
-CLASS 3-** สร้าง MACHINE LEARNING ด้วย PYTHON**: SUPPORT VERTOR MACHINE (SVM) -- (COMING SOON)
-Wait...
-CLASS 4 -** สร้าง MACHINE LEARNING ด้วย PYTHON**:** NATURAL LANGUAGE PROCESSION (NLP)**-- (COMING SOON)
-Wait...
-CLASS 5 - **สร้าง MACHINE LEARNING ด้วย PYTHON: K NEAREST NEIGHBORS (KNN) **-- (COMING SOON)
-Wait...
-CLASS 6 - **สร้าง MACHINE LEARNING ด้วย PYTHON: LOGISTIC REGRESSION **-- (COMING SOON)
-Wait...
-CLASS 7 - *สร้าง MACHINE LEARNING ด้วย PYTHON: K MEANS CLUSTERING *** -- (COMING SOON)
-Wait...
-CLASS 8 - *สร้าง MACHINE LEARNING ด้วย PYTHON: BUSINESS USE CASE *** -- (COMING SOON)
-Wait...
+- Introdution to Machine Learning linK(https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s)
+
+- DECISION TREES AND RANDOM FORESTS ***-- 21 (SAT) MAR 2020 -- 13.00 ++
+ 
+- SUPPORT VERTOR MACHINE (SVM) -- (COMING SOON)
+
+- NATURAL LANGUAGE PROCESSION (NLP)**-- (COMING SOON)
+
+- K NEAREST NEIGHBORS (KNN) **-- (COMING SOON)
+
+- LOGISTIC REGRESSION **-- (COMING SOON)
+
+- K MEANS CLUSTERING *** -- (COMING SOON)
+
+- BUSINESS USE CASE *** -- (COMING SOON)
+
