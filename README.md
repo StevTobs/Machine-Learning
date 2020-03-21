@@ -2,9 +2,9 @@
 -- by Steve Tobs
 
 
-- Introdution to Machine Learning เรียนฟรีได้ที่ -- [Clip](https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s)
+- Introdution to Machine Learning เรียนฟรีได้ที่ -- [Clip 15.00 นาที](https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s) 
 
-- DECISION TREES AND RANDOM FORESTS เรียนฟรีได้ที่ -- [Clip](https://www.youtube.com/watch?v=jyTbQ9KA8q4)
+- DECISION TREES AND RANDOM FORESTS เรียนฟรีได้ที่ -- [Clip เกือบ 2 ชั่วโมง](https://www.youtube.com/watch?v=jyTbQ9KA8q4)
  
 - SUPPORT VERTOR MACHINE (SVM) -- (COMING SOON)
 
