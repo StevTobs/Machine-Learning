@@ -1,7 +1,7 @@
 # สร้าง Machine Learning ด้วย Python 
 -- by Steve Tobs
 
-- Introdution to Machine Learning linK(https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s)
+- Introdution to Machine Learning (link)[(https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s)]
 
 - DECISION TREES AND RANDOM FORESTS ***-- 21 (SAT) MAR 2020 -- 13.00 ++
  
