@@ -4,7 +4,7 @@
 
 - Introdution to Machine Learning [Clip](https://www.youtube.com/watch?v=cKvUpfz6eV0&t=90s)
 
-- DECISION TREES AND RANDOM FORESTS -- (COMING SOON) 
+- DECISION TREES AND RANDOM FORESTS -- [Clip](https://www.youtube.com/watch?v=jyTbQ9KA8q4)
  
 - SUPPORT VERTOR MACHINE (SVM) -- (COMING SOON)
 
